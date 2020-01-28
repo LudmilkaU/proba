@@ -1,0 +1,27 @@
+body {
+    background-color: cadetblue;
+}
+
+.style {
+    text-align: center;
+}
+
+h1 {
+    font-size: 54px;
+    color: chartreuse;
+}
+
+h2 {
+    font-size: 44px;
+    color: #943684;
+}
+
+p {
+    font-size: 28px;
+}
+
+li {
+    font-size: 28px;
+    color: #d84806; 
+}
+
