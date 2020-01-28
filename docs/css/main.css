@@ -3,6 +3,11 @@ body {
 }
 
 .style {
+    width: 700px;
+}
+
+.block {
+    display: inline-block;
     text-align: center;
 }
 
@@ -22,6 +27,5 @@ p {
 
 li {
     font-size: 28px;
-    color: #d84806; 
+    color: #d84806;
 }
-
